@@ -1,2 +1,2 @@
-# 个人笔记总结
+# 笔记
 ## Ajax,C&C++,CSS,Git,HTML,Java,JavaScript,jQuery,MongoDB,MySQL,Nginx,Node.js,Vue...
